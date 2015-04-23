@@ -1,0 +1,8 @@
+{
+    "require": {
+        "components/bootstrap": "*",
+		"components/bootstrap-default": "*",
+		"components/jquery": "*",
+		"components/jqueryui": "*"
+    }
+}
